@@ -65,7 +65,7 @@
 
 | Fonctionnalités | Specifications Techniques | Cartes supportées (non exhaustif) |
 |-|-|-|
-| 💻 Prise en charge d'un grand nombre d'appareils<br>👥 Communauté à forte croissance<br>💱 Utilisation & échanges faciles<br>(sur DUCO Exchange, Node-S, JustSwap, SushiSwap)<br>🌎 Disponible partout<br>🆕 Projet innovateur & open-source<br>🌳 Débutants & eco-friendly<br>💰 Coût réduit & facile à miner | ⚒️ Algorithme : DUCO-S1<br>♐ Récompenses : assurées par "Kolka system"<br>Assistant pour récompenser équitablement les mineurs<br>⚡ Transactions : Instantanées<br>🤑 Minage de coins : sans limite<br>(Limiter à : 350k coins avant décembre 2020)<br>(Nouvelle limite planifiée pour le futur)<br>🔤 Symbole: DUCO (ᕲ)<br>🔢 Décimales: supérieures à 20 | ♾️ Arduinos<br>(Uno, Nano, Mega, Due, Pro Mini, etc.)<br>📶 ESP8266s<br>(NodeMCU, Wemos, etc.)<br>📶 ESP32s<br>(ESP-WROOM, ESP32-CAM, etc.)<br>🍓 Raspberry Pis<br>(1, 2, Zero (W/WH), 3, 4, Pico, 400)<br>🍊 Orange Pis<br>(Zero, Zero 2, PC, Plus, etc.)<br>⚡ Teensy 4.1 boards |
+| 💻 Prise en charge d'un grand nombre d'appareils<br>👥 Une communauté en expansion<br>💱 Utilisation & échanges faciles<br>(sur DUCO Exchange, Fluffyswap, JustSwap, SushiSwap)<br>🌎 Disponible partout dans le monde<br>🆕 Projet innovateur & open-source<br>🌳 Pour les débutants & ecologique<br>💰 Coût réduit & facile à miner | ⚒️ Algorithme : DUCO-S1<br>♐ Récompenses : assurées par le système "Kolka"<br>qui récompense équitablement les mineurs<br>⚡ Transactions : Instantanées<br>🤑 Minage de coins : sans limite<br>(Limité à : 350k coins avant décembre 2020)<br>(Nouvelle limite planifiée pour le futur)<br>🔤 Symbole: DUCO (ᕲ)<br>🔢 Décimales: supérieures à 20 | ♾️ Arduinos<br>(Uno, Nano, Mega, Due, Pro Mini, etc.)<br>📶 ESP8266s<br>(NodeMCU, Wemos, etc.)<br>📶 ESP32s<br>(ESP-WROOM, ESP32-CAM, etc.)<br>🍓 Raspberry Pis<br>(1, 2, Zero (W/WH), 3, 4, Pico, 400, 5)<br>🍊 Orange Pis<br>(Zero, Zero 2, PC, Plus, etc.)<br>⚡ Teensy 4.1 boards |
 
 ## Par où commencer
 
@@ -104,7 +104,7 @@ Un tutoriel sur la façon d'utiliser le wDUCO est disponible à cette adresse [w
 
 ## Developpement
 
-Le projet Duino-Coin est un projet Open Source. Chaque contribution est source d'inspiration, de créativité et nous permettent d'apprendre et d'évoluer plus vite dans une athmosphère bienveillante.<br>
+Le projet Duino-Coin est un projet Open Source. Chaque contribution est source d'inspiration, de créativité et nous permet d'apprendre et d'évoluer plus vite dans une athmosphère bienveillante.<br>
 C'est pourquoi toute contribution au projet Duino-coin est vivement appréciée.
 
 Comment nous aider?
@@ -160,7 +160,7 @@ Le code source du serveur, la documentation de l'API et toutes les librairies po
     La liste étant de plus en plus longue, elle est masquée par défaut. Veuillez cliquer sur ce lien pour afficher toutes les références !
   </summary>
   
-  N.B. : ces logiciels et applications sont développé(e)s par des contributeurs en dehors du projet initial Duino-coin, nous ne pouvons donner aucune garantie quant à leur bon fonctionnement. De même, nous ne pouvons garantir qu'ils, elles, respectent les termes d'utilisation (T.O.S.) du Duino-coin. Il est donc possible que votre compte soit banni suite à leur utilisation. En aucun cas nous ne serons responsable de cet état de fait. Utilisez ces applications et logiciels comme des "curiosités", des éléments d'apprentissage...
+  N.B. : ces logiciels et applications sont développé(e)s par des contributeurs en dehors du projet initial Duino-coin, nous ne pouvons donner aucune garantie quant à leur bon fonctionnement. De même, nous ne pouvons garantir qu'ils où elles, respectent les termes d'utilisation (T.O.S.) du Duino-coin. Il est donc possible que votre compte soit banni suite à leur utilisation. En aucun cas nous ne serons responsable de cet état de fait. Utilisez ces applications et logiciels comme des "curiosités", des éléments d'apprentissage...
   Par exemple, il convient de noter que l'utilisation de [nonceMiner](https://github.com/colonelwatch/nonceMiner) par colonelwatch amènera au **bannissement immédiat de votre compte**.
 
 ### Autres applications de minage connues pour fonctionner avec le Duino-Coin
@@ -192,10 +192,10 @@ Le code source du serveur, la documentation de l'API et toutes les librairies po
 
 *   [Duino Miner](https://github.com/g7ltt/Duino-Miner) - Mineur Arduino Nano  pour DUCO / fichiers et documentation par g7ltt
 *   [DUINO Mining Rig](https://repalmakershop.com/pages/duino-mining-rig) - fichiers 3D, designs de PCB, et instructions pour créer votre propre rig Duino par ReP_AL
-*   [DuinoCoin-balance-Home-Assistant](https://github.com/NL647/DuinoCoin-balance-Home-Assistant) - addon solde pour "home assistant" permettant d'afficher votre solde par NL647
+*   [DuinoCoin-balance-Home-Assistant](https://github.com/NL647/DuinoCoin-balance-Home-Assistant) - addon "balance" pour "home assistant" permettant d'afficher votre solde par NL647
 *   [Duino Coin Status Monitor](https://github.com/TSltd/duino_coin) - interface utilisateur pour écran 128x64 SSD1306 OLED et ESP8266 par TSltd
 *   [ducopanel](https://github.com/ponsato/ducopanel) - GUI pour le contrôle de mineurs par ponsato
-*   [Duino AVR Monitor](https://www.microsoft.com/store/apps/9NJ7HPFSR9V5) - GUI Windows gestionnaire et pillotage d'appareils et cartes AVR minant du Duino-Coin par niknak
+*   [Duino AVR Monitor](https://www.microsoft.com/store/apps/9NJ7HPFSR9V5) - GUI Windows gestionnaire et pilotage d'appareils et cartes AVR minant du Duino-Coin par niknak
 *   [Duino-Coin Arduino library](https://github.com/ricaun/arduino-DuinoCoin) - Librairie Arduino par ricaun
 *   [DuinoCoinI2C](https://github.com/ricaun/DuinoCoinI2C) - Utilisation d'un ESP8266/ESP32 comme maître pour un rig d'Arduinos par ricaun
 *   [Duino-Coin Mining Dashboard](https://lulaschkas.github.io/duco-mining-dashboard/) - Tableau de bord et d'aide au dépannage par Lulaschkas
@@ -220,15 +220,15 @@ Certaines parties du programme, incluant des fichiers, peuvent être soumises à
 1.  Les Duino-Coins (ou "DUCOs") sont la propriété des mineurs de coins suivant un processus dit de "minage".<br/>
 2.  Le minage est fondé sur l'utilisation de l'algorithme DUCO-S1, comme décrit dans notre livret blanc (<a href="https://github.com/revoxhere/duino-coin/blob/gh-pages/assets/whitepaper.pdf">Duino-Coin Whitepaper</a>). L'algorithme DUCO-S1 permet d'attribuer des récompenses aux utilisateurs trouvant une solution correcte à un problème mathématique.<br/>
 3.  Le minage peut être effectué en utilisant des processeurs, des microcontrôleurs (ex. : cartes Arduinos), des Single Board Computers (ex : cartes Raspberry Pi), des cartes wifi de type ESP32/8266 et un programme de minage officiel - voir plus haut dans le fichier README).<br/>
-4.  Le minage dit "GPU" (réalisé à l'aide cartes graphique), le minage FPGAs, et tout type de minage avec des appareils a forte puissance est autorisé, mais l'utilisateur se verra attribué des niveaux de difficulté `EXTREME`.<br/>
+4.  Le minage dit "GPU" (réalisé à l'aide cartes graphique), le minage FPGAs, et tout type de minage avec des appareils a forte puissance est autorisé, mais l'utilisateur se verra attribué des niveaux de difficulté `EXTREMES`.<br/>
 5.  Tout utilisateur utilisant un niveau de difficulté qui ne correspond pas avec son matériel (voir <a href="https://github.com/revoxhere/duino-coin/tree/useful-tools#socket-api">liste des taux de difficulté</a>) verra son niveau de difficulté réajusté automatiquement vers un niveau de difficulté correspondant à sa capacité matérielle réelle.<br/>
 6.  Tout utilisateur qui tentera d'utiliser ou de biaiser le taux de difficulté à la baisse pourra voir son compte temporairement bloqué.<br/>
-7.  Bannir signifie empêcher un utilisateur d'accéder à ces coins, et peut aller jusqu'à la suppression du compte du dit utilisateur.<br/>
+7.  Bannir signifie empêcher un utilisateur d'accéder à ses coins, et peut aller jusqu'à la suppression du compte du dit utilisateur.<br/>
 8.  Seuls les coins gagnés légalement, dans le respect des règles énoncées ici, sont éligibles à l'échange.<br/>
 9.  Un compte peut être suspendu temporairement pour vérifier qu'il respecte bien les conditions d'utilisation et ne viole pas ces mêmes règles.<br/>
 10. Un ordre de change, ou une procédure d'échange en cours, fait(e) sur la plateforme DUCO-Exchange ("plateforme officielle d'échange") pourra être supprimé ou refusé durant la période de vérification (voir point 9).<br/>
 11. Un ordre de change ou une procédure d'échange, fait(e) sur la plateforme officielle d'échange pourra être refusé en cas de non respect des règles d'utilisation ou par manque de fonds propres.<br/>
-12. Le minage via des services d'hébergement gratuits sur le cloud, ou des services de VPS gratuits (ex : Repl.it, GitHub Actions, etc.) n'est pas autorisé, dans la mesure où il ne respecte l'égalité entre les utilisateurs.<br />
+12. Le minage via des services d'hébergement gratuits sur le cloud, ou des services de VPS gratuits (ex : Repl.it, GitHub Actions, etc.) n'est pas autorisé, dans la mesure où il ne respecte pas l'égalité entre les utilisateurs.<br />
 13. Tout utilisateur dont il est prouvé qu'il a tenté d'enfreindre les règles d'utilisation sera banni.<br/>
 14. Ces termes d'utilisation peuvent être modifiés sans préavis.<br/>
 15. Posséder plusieurs comptes sur la plateforme sans raisons rationnelles (ex : pour faire du minage optimisé sur différents comptes) décrites au préalable par l'utilisateur n'est pas autorisé.<br/>
