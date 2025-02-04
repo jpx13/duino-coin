@@ -58,14 +58,14 @@
 <br><br>
 
 <h3>
-    Duino-coin est une cryptomonnaie qui peut être minée avec des microcontrôleurs de type Arduino, des ESP8266/32, des Raspberry Pis,
+    Duino-coin est une cryptomonnaie centralisée eco-responsable qui peut être minée rapidement avec des microcontrôleurs de type Arduino, des ESP8266/32, des Raspberry Pis,
     des ordinateurs et bien d'autres équipements (routeurs Wi-Fi, TV connectées, Smartphones, Montres connectées, SBCs, GPUs).
 </h3>
 <br>
 
 | Fonctionnalités | Specifications Techniques | Cartes supportées (non exhaustif) |
 |-|-|-|
-| 💻 Prise en charge d'un grand nombre d'appareils<br>👥 Une communauté en expansion<br>💱 Utilisation & échanges faciles<br>(sur DUCO Exchange, Fluffyswap, JustSwap, SushiSwap)<br>🌎 Disponible partout dans le monde<br>🆕 Projet innovateur & open-source<br>🌳 Pour les débutants & ecologique<br>💰 Coût réduit & facile à miner | ⚒️ Algorithme : DUCO-S1<br>♐ Récompenses : assurées par le système "Kolka"<br>qui récompense équitablement les mineurs<br>⚡ Transactions : Instantanées<br>🤑 Minage de coins : sans limite<br>(Limité à : 350k coins avant décembre 2020)<br>(Nouvelle limite planifiée pour le futur)<br>🔤 Symbole: DUCO (ᕲ)<br>🔢 Décimales: supérieures à 20 | ♾️ Arduinos<br>(Uno, Nano, Mega, Due, Pro Mini, etc.)<br>📶 ESP8266s<br>(NodeMCU, Wemos, etc.)<br>📶 ESP32s<br>(ESP-WROOM, ESP32-CAM, etc.)<br>🍓 Raspberry Pis<br>(1, 2, Zero (W/WH), 3, 4, Pico, 400, 5)<br>🍊 Orange Pis<br>(Zero, Zero 2, PC, Plus, etc.)<br>⚡ Teensy 4.1 boards |
+| 💻 Prise en charge d'un grand nombre d'appareils<br>👥 Une communauté en expansion<br>💱 Utilisation & échanges faciles<br>(sur DUCO Exchange, Fluffyswap, JustSwap, SushiSwap)<br>🌎 Disponible partout dans le monde<br>🆕 Projet innovateur & open-source<br>🌳 Pour les débutants & eco-responsable<br>💰 Coût réduit & facile à miner | ⚒️ Algorithme : DUCO-S1<br>♐ Récompenses : assurées par le système "Kolka"<br>qui récompense équitablement les mineurs<br>⚡ Transactions : Instantanées<br>🤑 Minage de coins : sans limite<br>(Limité à : 350k coins avant décembre 2020)<br>(Nouvelle limite planifiée pour le futur)<br>🔤 Symbole: DUCO (ᕲ)<br>🔢 Décimales: supérieures à 20 | ♾️ Arduinos<br>(Uno, Nano, Mega, Due, Pro Mini, etc.)<br>📶 ESP8266s<br>(NodeMCU, Wemos, etc.)<br>📶 ESP32s<br>(ESP-WROOM, ESP32-CAM, etc.)<br>🍓 Raspberry Pis<br>(1, 2, Zero (W/WH), 3, 4, Pico, 400, 5)<br>🍊 Orange Pis<br>(Zero, Zero 2, PC, Plus, etc.)<br>⚡ Teensy 4.1 boards |
 
 ## Par où commencer
 
